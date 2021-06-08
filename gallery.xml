@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="6"
+	showOpenButton="false"
+	showFullscreenButton="true"
+	galleryStyle="MODERN"
+	textColor="CC6600"
+	frameColor="FF9966"
+	indexPageName="Galeria.html"
+
+>
+  <image imageURL="images/15812901656_6e3f56a438_o.jpg"
+	thumbURL="thumbs/15812901656_6e3f56a438_o.jpg"
+	linkURL="images/15812901656_6e3f56a438_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1379547789720625.jpg"
+	thumbURL="thumbs/1379547789720625.jpg"
+	linkURL="images/1379547789720625.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56961422550077384504.jpg"
+	thumbURL="thumbs/56961422550077384504.jpg"
+	linkURL="images/56961422550077384504.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/amazing-awesome-beautiful-clothe-Favim.com-1674168.jpg"
+	thumbURL="thumbs/amazing-awesome-beautiful-clothe-Favim.com-1674168.jpg"
+	linkURL="images/amazing-awesome-beautiful-clothe-Favim.com-1674168.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/b928c0c8028bf8e41238eaac38aa8231.jpg"
+	thumbURL="thumbs/b928c0c8028bf8e41238eaac38aa8231.jpg"
+	linkURL="images/b928c0c8028bf8e41238eaac38aa8231.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bag-beautiful-clothes-fashion-girl-Favim.com-339377.jpg"
+	thumbURL="thumbs/bag-beautiful-clothes-fashion-girl-Favim.com-339377.jpg"
+	linkURL="images/bag-beautiful-clothes-fashion-girl-Favim.com-339377.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/beautiful-blonde-fashion-h3rsmile-tumblr-com-jacket-model-favim-com-55944.jpg"
+	thumbURL="thumbs/beautiful-blonde-fashion-h3rsmile-tumblr-com-jacket-model-favim-com-55944.jpg"
+	linkURL="images/beautiful-blonde-fashion-h3rsmile-tumblr-com-jacket-model-favim-com-55944.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/download.jpg"
+	thumbURL="thumbs/download.jpg"
+	linkURL="images/download.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/e26fa89b70c4cf1250bd683a41938fe4.jpg"
+	thumbURL="thumbs/e26fa89b70c4cf1250bd683a41938fe4.jpg"
+	linkURL="images/e26fa89b70c4cf1250bd683a41938fe4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fashion-jewelry-necklace-pastel-Favim.com-910284.jpg"
+	thumbURL="thumbs/fashion-jewelry-necklace-pastel-Favim.com-910284.jpg"
+	linkURL="images/fashion-jewelry-necklace-pastel-Favim.com-910284.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/large.jpg"
+	thumbURL="thumbs/large.jpg"
+	linkURL="images/large.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/original.jpg"
+	thumbURL="thumbs/original.jpg"
+	linkURL="images/original.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/original.png"
+	thumbURL="thumbs/original.jpg"
+	linkURL="images/original.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_inline_nhee8d2Ygu1s6lw3t.png"
+	thumbURL="thumbs/tumblr_inline_nhee8d2Ygu1s6lw3t.jpg"
+	linkURL="images/tumblr_inline_nhee8d2Ygu1s6lw3t.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_lk4g10WZR31qc144qo1_500_large.jpg"
+	thumbURL="thumbs/tumblr_lk4g10WZR31qc144qo1_500_large.jpg"
+	linkURL="images/tumblr_lk4g10WZR31qc144qo1_500_large.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_lt8kf1HUtE1qbg5hlo1_500.png"
+	thumbURL="thumbs/tumblr_lt8kf1HUtE1qbg5hlo1_500.jpg"
+	linkURL="images/tumblr_lt8kf1HUtE1qbg5hlo1_500.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_ltkr6j5W7K1r01y5ao1_500_large.png"
+	thumbURL="thumbs/tumblr_ltkr6j5W7K1r01y5ao1_500_large.jpg"
+	linkURL="images/tumblr_ltkr6j5W7K1r01y5ao1_500_large.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_m7e2mia0RX1r7yff4o1_500.png"
+	thumbURL="thumbs/tumblr_m7e2mia0RX1r7yff4o1_500.jpg"
+	linkURL="images/tumblr_m7e2mia0RX1r7yff4o1_500.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mcbadeBix81rja4vjo1_500.jpg"
+	thumbURL="thumbs/tumblr_mcbadeBix81rja4vjo1_500.jpg"
+	linkURL="images/tumblr_mcbadeBix81rja4vjo1_500.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_md1sos6GBN1r7zmyio1_500_large.png"
+	thumbURL="thumbs/tumblr_md1sos6GBN1r7zmyio1_500_large.jpg"
+	linkURL="images/tumblr_md1sos6GBN1r7zmyio1_500_large.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mo7mg9RXqi1soqlcvo1_500.png"
+	thumbURL="thumbs/tumblr_mo7mg9RXqi1soqlcvo1_500.jpg"
+	linkURL="images/tumblr_mo7mg9RXqi1soqlcvo1_500.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mr4jz3YcRR1s6wfigo1_500.jpg"
+	thumbURL="thumbs/tumblr_mr4jz3YcRR1s6wfigo1_500.jpg"
+	linkURL="images/tumblr_mr4jz3YcRR1s6wfigo1_500.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_ms00s2EL7X1r7yff4o1_500.jpg"
+	thumbURL="thumbs/tumblr_ms00s2EL7X1r7yff4o1_500.jpg"
+	linkURL="images/tumblr_ms00s2EL7X1r7yff4o1_500.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mz9w16OhBq1tpxae3o1_500.jpg"
+	thumbURL="thumbs/tumblr_mz9w16OhBq1tpxae3o1_500.jpg"
+	linkURL="images/tumblr_mz9w16OhBq1tpxae3o1_500.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_n86v2xYNbP1rn6mbqo1_500.jpg"
+	thumbURL="thumbs/tumblr_n86v2xYNbP1rn6mbqo1_500.jpg"
+	linkURL="images/tumblr_n86v2xYNbP1rn6mbqo1_500.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_static_tumblr_ldefujoe2t1qbpfn1o1_500_large.png"
+	thumbURL="thumbs/tumblr_static_tumblr_ldefujoe2t1qbpfn1o1_500_large.jpg"
+	linkURL="images/tumblr_static_tumblr_ldefujoe2t1qbpfn1o1_500_large.png"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
